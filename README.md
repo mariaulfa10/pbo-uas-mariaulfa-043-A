@@ -1,7 +1,6 @@
 Judul :
 SMARTKOS: Sistem Digital Pengelolaan Kos-Kosan Berbasis Object Oriented Programming (OOP)
 
- 
 
 Maria Ulfa (2400018043)
 
@@ -17,8 +16,8 @@ SMARTKOS: Sistem Digital Pengelolaan Kos-Kosan Berbasis Object Oriented Programm
 Link Github : Project PBO
 Deskripsi Singkat : 
 SMARTKOS merupakan aplikasi berbasis Object Oriented Programming (OOP) yang dirancang untuk membantu pemilik kos dalam mengelola data kamar, penghuni, tagihan, serta pembayaran secara terstruktur dan terkomputerisasi.
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/382b58e3-d199-41d5-88b0-a2c932b72360" />
  
-
 
 
 b.	Persoalan Bisnin dan Deskripsi Proyek 
